@@ -14,9 +14,9 @@ import { PolarAreaChartDemoComponent } from './components/charts/polar-area-char
 import { RadarChartDemoComponent } from './components/charts/radar-chart-demo';
 import { BaseChartDemoComponent } from './components/charts/base-chart-demo';
 
-import { TabsModule, CollapseModule, DropdownModule } from 'ng2-bootstrap/ng2-bootstrap';
+import { TabsModule, CollapseModule, DropdownModule } from 'ng2-bootstrap';
 
-import { ChartsModule } from '../ng2-charts';
+import { ChartsModule } from 'ng2-charts';
 
 const gettingStarted = require('./getting-started.md');
 

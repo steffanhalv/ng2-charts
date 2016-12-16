@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { ChartsModule } from '../../ng2-charts';
+import { ChartsModule } from '../ng2-charts';
 
 const html = ``;
 
